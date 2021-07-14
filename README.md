@@ -21,7 +21,7 @@ On switching from the User to Admin or the opposite, all data will move to the c
 
 - Clone this repository to your local machine or just download the zip from the above green button.
 ```bash
-  git clone 
+  git clone https://github.com/billalsiddiqi/switch-account-laravel.git
 ```
 
 - Make sure you have the [Composer](https://getcomposer.org/download) installed, then run this command in your command-line (you should be inside your project directory).
